@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Sono:wght@300&display=swap');
+body{
+	font-family: Golos Text, sans-serif;
+}
+
+#header{
+	text-align:center;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+}
+
+#time{
+	font-family: Sono;
+}
+
+#sidebar{
+	width: 15%;
+	float: left;
+	padding-left: 10em;
+	
+}
+
+#menu-list{
+	list-style-type: none;
+	text-align: right;
+	font-family: Sono;
+}
+
+#main-body{
+	width:80%;
+	float: right;
+	text-align: left;
+	padding-right: 15em;
+	box-shadow: -2px 0px 0px 0px black;
+}
+
+.main-content{
+	padding-left: 2.5em;
+}
