@@ -37,3 +37,22 @@ body{
 .main-content{
 	padding-left: 2.5em;
 }
+
+
+footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: right;
+   padding-right: 2em;
+   padding-bottom: 2em;
+}
+
+#sm-icons{
+	list-style-type: none;
+	display: inline;
+	
+
+}
