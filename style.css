@@ -3,6 +3,18 @@ body{
 	font-family: Golos Text, sans-serif;
 }
 
+a{
+	color:black;
+}
+
+a:visited{
+  color:black;
+}
+
+h4{
+	padding-left:2em;
+}
+
 #header{
 	text-align:center;
 	padding-top: 1.5em;
@@ -40,11 +52,11 @@ body{
 
 
 footer{
+	font-family: Sono;
    position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   color: white;
    text-align: right;
    padding-right: 2em;
    padding-bottom: 2em;
